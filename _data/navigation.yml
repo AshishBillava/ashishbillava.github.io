@@ -1,4 +1,19 @@
 # Site navigation links
 
+# new
+- title: Home
+  url: /
+# new
+
+# old
 - title: Projects
   url: /projects/
+# old
+
+# new
+- title: Blog
+  url: /blog/
+
+- title: About
+  url: /about/
+# new

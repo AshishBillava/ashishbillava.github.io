@@ -1,6 +1,6 @@
 # Site
 title:              Ashish Billava
-bio:                'Indie Videogame Developer'
+bio:                'Indie Videogame Developer\nProgrammer\nTrader'
 description:        "Resume and Blog"
 reading_time:       true
 words_per_minute:   200
@@ -40,7 +40,7 @@ sass:
 #email:
 #twitter:            username
 #facebook:           username
-github-url:         ashishbillava.github.io
+#github-url:         ashishbillava
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
